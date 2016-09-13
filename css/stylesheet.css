@@ -1,0 +1,9 @@
+#response {
+  display: none;
+}
+
+#response p {
+  color: red;
+  font-size: 40px;
+  text-transform: uppercase;
+}
